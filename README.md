@@ -1,4 +1,4 @@
-# MapBench_private
+# MapBench
 
 ## 📦 Installation
 
@@ -21,8 +21,6 @@ python infer_gpt.py \
 ```
 
 > 💡 Replace <your-api-key> with your actual OpenAI API key.
-
-> 📂 Since the dataset is private, modify the dataset path in [`infer_gpt.py` (line 122)](https://github.com/ShuoXing98/MapBench_private/blob/main/infer_gpt.py#L122) to point to the local directory where your shared dataset is stored.
 
 ### 📊 Evaluation
 
